@@ -1,5 +1,4 @@
 # Keylogger
-![image](https://github.com/hinnhi/coding_project/assets/163904638/96f2d693-97dd-45d5-bee8-ec08fc74c6da)
 
 ## Basic keylogger using C++
 The main function of this program is to record the keys pressed on the keyboard and record them in the file **Records.txt**.  :computer:
